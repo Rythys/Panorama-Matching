@@ -1,4 +1,6 @@
-# Panorama-Matching![panorama_match1](https://github.com/user-attachments/assets/3ac80803-72d2-45d0-895a-2e420cc5bcbb)
+# Panorama-Matching
+Результат программы:
+![panorama_match1](https://github.com/user-attachments/assets/3ac80803-72d2-45d0-895a-2e420cc5bcbb)
 
 ![panorama_match2](https://github.com/user-attachments/assets/3a4f2a74-5867-4da3-ad1d-03e0f2f47bf0)
 ![panorama_match](https://github.com/user-attachments/assets/c53a049b-0897-48e4-a0ad-137292016ea5)
